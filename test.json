@@ -1,4 +1,5 @@
-{
+[
+  {
     "page": "West SGV News",
     "mbfclink": "https://mediabiasfactcheck.com/west-sgv-news/",
     "bias_rating": "RIGHT-CENTER",
@@ -12,7 +13,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": ":",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/West_Covina,_California",
     "wiki": ""
   },
   {
@@ -29,7 +30,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "MOSTLY FREE",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Ventura_County_Star",
     "wiki": ""
   },
   {
@@ -46,7 +47,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Volusia_County,_Florida",
     "wiki": ""
   },
   {
@@ -63,7 +64,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Wichita,_Kansas",
     "wiki": ""
   },
   {
@@ -80,7 +81,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Whitman_County_Gazette",
     "wiki": ""
   },
   {
@@ -97,7 +98,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "MOSTLY FREE",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Wine_Country",
     "wiki": ""
   },
   {
@@ -131,6 +132,7 @@
     "leaning": "fake-news",
     "press_freedom_rank": "",
     "bias_label_5_class": "rightcenter",
-    "wiki_link": "",
+    "wiki_link": "https://en.wikipedia.org/wiki/Wiregrass_Farmer",
     "wiki": ""
-  },
+  }
+]

@@ -5,11 +5,11 @@ from selenium import webdriver
 from fake_useragent import UserAgent
 
 try:
-    with open("wiki_medias/data.json", "r", encoding="utf-8") as f:
+    with open("test.json", "r", encoding="utf-8") as f:
         datas = json.load(f)
 except Exception as e:
     print("Failed to read the file.")
-    with open("wiki_medias/data.json", "r", encoding="utf-8") as f:
+    with open("test.json", "r", encoding="utf-8") as f:
         f.seek(0, 2)
         f.seek(max(f.tell() - 10, 0), 0)
         last_chars = f.read()
@@ -53,7 +53,8 @@ for data in datas:
               print(href)
               break
       data["wiki_link"] = link_wiki
-      with open("wiki_medias/data.json", "w", encoding="utf-8") as f:
+      print(datas)
+      with open("test.json", "w", encoding="utf-8") as f:
         json.dump(datas, f, indent=2)
     except:
       continue
